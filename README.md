@@ -1,5 +1,3 @@
----
-
 # 🐦 Flappy Bird AI (NEAT Algorithm)
 
 This project implements an AI that learns to play **Flappy Bird** using the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm. The game is built using **Pygame**, and the AI evolves over generations to master pipe dodging!
